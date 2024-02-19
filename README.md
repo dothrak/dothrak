@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">🔭 I'm currently working on improving the responsiveness of my website.<br>📄 Know about my experiences on my <a href="https://www.myriamouraou.com/">portfolio</a><br>⚡ Fun fact: The Porsche 911 Was Initially Called The Porsche 901</p>
+<p align="center">🔭 I'm currently working on improving the responsiveness of my website.<br>📄 Know about my experiences on my <a href="https://www.myriamouraou.com/">portfolio</a>.<br>⚡ Fun fact: The Porsche 911 Was Initially Called The Porsche 901.</p>
 
 ###
 
