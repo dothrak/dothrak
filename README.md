@@ -1,14 +1,13 @@
-<h2 align="center">Hello World👋<br> My name is Myriam and I'm a  coding for the sheer joy of it from Paris, France.</h2>
+<h2 align="center">Hello World:wave:<br> My name is Myriam and I'm a  coding for the sheer joy of it from Paris, France.</h2>
 
 ###
 
-<p align="left">🔐 I'm a passionate cybersecurity student and work-study Threats and Vulnerabilities Engineer. Amidst my studies and work, I always make time for my other love – development. This GitHub is my dedicated space where I share my projects, explorations, and findings in the vast realm of development. 💻🛡️</p>
+<p align="left">:closed_lock_with_key: I'm a passionate cybersecurity student and work-study Threats and Vulnerabilities Engineer. Amidst my studies and work, I always make time for my other love – development. This GitHub is my dedicated space where I share my projects, explorations, and findings in the vast realm of development. :computer::shield:</p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dothrak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=dothrak&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dothrak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -37,9 +36,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/dothrak/dothrak/output/snake.svg" alt="Snake animation" />
 
 ###
